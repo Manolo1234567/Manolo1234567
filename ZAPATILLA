@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Pàgina web de zapatillas</title>
+<style>
+    body {background-color: green;
+	 }
+    h1 {color: #DE4A2A;
+	font-family: verdana;
+	font-size: 500%;	
+	}
+    </style>  
+  </head>
+  <body>
+    <p style="text-align: center;"><span style="text-decoration: underline;">P&agrave;gina web sobre zapatilla&nbsp;</span></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://assets.adidas.com/images/w_600,f_auto,q_auto/f1d1dcc0a3d74afa92c5a95b009cdb38_9366/Zapatilla_POD_S3.1_Negro_B28080_01_standard.jpg" alt="Resultado de imagen de zapatilla" width="462" height="462" /></p>
+<p>&nbsp;</p>
+<p><img src="https://html5-editor.net/tinymce/plugins/emoticons/img/smiley-cool.gif" alt="cool" /><img src="https://html5-editor.net/tinymce/plugins/emoticons/img/smiley-surprised.gif" alt="surprised" /></p>
+<p><iframe src="https://www.youtube.com/embed/7Qv-6UW8ZBs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+   
+  </body>
+</html>
